@@ -1,0 +1,27 @@
+.ContainerNavigate{
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    background: darkcyan;
+    box-shadow: 0 10px 20px rgb(0, 0, 0, 0.25);
+
+}
+.ContainerNavigate .Meniu{
+    display: flex;
+    position: relative;
+}
+.ContainerNavigate .Meniu li{
+    font-size: 30px;
+    flex: 1;
+    list-style: none;
+}
+#monke{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+/* #monke a
+{
+    flex: 1;
+} */
